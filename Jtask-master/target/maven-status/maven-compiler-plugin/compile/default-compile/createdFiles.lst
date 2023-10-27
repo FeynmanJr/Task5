@@ -1,0 +1,15 @@
+operations\PhoneOps$columns.class
+operations\AccountsOps.class
+operations\CommandExecutor.class
+model\Address.class
+model\Command.class
+operations\AccountsOps$columns.class
+operations\AddressOps$columns.class
+operations\CustomerOps.class
+model\Accounts.class
+operations\PhoneOps.class
+com\example\App.class
+operations\AddressOps.class
+model\Phone.class
+operations\CustomerOps$columns.class
+model\Customer.class
